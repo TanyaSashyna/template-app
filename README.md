@@ -13,6 +13,7 @@ The template application.
 - TypeScript
 - Eslint
 - Jest
+- Mobx
 
 ## Node
 node.js v18.18.0
