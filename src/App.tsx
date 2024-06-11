@@ -12,7 +12,7 @@ const App: FC = () => {
       <BrowserRouter>
         <div>
           App
-          <Root/>
+          <Root />
         </div>
       </BrowserRouter>
     </Provider>

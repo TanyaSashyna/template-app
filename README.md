@@ -15,6 +15,7 @@ The template application.
 - Jest v29.7.0
 - Mobx v6.12.3
 - Styled components v6.1.11
+- Tailwind CSS v3.4.4
 
 ## Node
 node.js v18.18.0
